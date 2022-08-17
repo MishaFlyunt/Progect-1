@@ -1,0 +1,87 @@
+.ex-1 {
+    background: linear-gradient(0deg, rgba(34, 155, 195, 1) 5%, rgba(253, 196, 45, 1) 86%);
+    box-shadow: 0em 0 .6em, 0em 0 .5em rgb(182, 182, 161);
+}
+
+.text-a {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ex-2 {
+    width: calc(100% - 50px);
+    background-color: rgb(227, 237, 241);
+}
+
+.ex-3 {
+    box-shadow: 0em 0 .6em, 0em 0 .5em rgb(182, 182, 161);
+}
+
+.text-p {
+    word-spacing: 6px;
+    letter-spacing: 5px;
+    font-size: large;
+    animation: anim 3s;
+    text-shadow: 0px 9px rgb(141, 195, 216);
+}
+
+@keyframes anim {
+    from {
+        transform: rotate(45deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+.text-h {
+    font-weight: lighter;
+}
+
+.text-p-ex3 {
+    font-weight: 600;
+}
+
+.text-h2-ex4 {
+    color: lightskyblue;
+}
+
+.efect:hover h2 {
+    color: white !important;
+}
+
+.efect:hover {
+    background-color: lightskyblue;
+}
+
+.card-color {
+    background-color: lightskyblue;
+}
+
+input {
+    border: none !important;
+    border-bottom: 1px solid lightskyblue!important;
+    border-radius: 0% !important;
+}
+
+.form-control:focus {
+    background-color: lightskyblue;
+}
+
+.form-control:focus::placeholder {
+    color: rgb(255, 255, 255);
+}
+
+button {
+    border-radius: 0% !important;
+    padding-left: 27px !important;
+    padding-right: 27px !important;
+    background-color: lightskyblue !important;
+    color: white !important;
+}
+
+button:hover {
+    background-color: white !important;
+    color: lightskyblue !important;
+    border: 2px solid lightskyblue !important;
+}

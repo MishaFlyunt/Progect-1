@@ -1,0 +1,70 @@
+.block-1 {
+    width: 100vw;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block-2 {
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ex {
+    width: 40vw;
+    height: 10vh;
+}
+
+.ex1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one {
+    background-color: rgb(204, 207, 207);
+    width: 4vw;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.two {
+    background-color: rgb(247, 4, 4);
+    width: 4vw;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.theree {
+    background-color: rgb(25, 28, 236);
+    width: 4vw;
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+input {
+    width: 450px;
+    height: 75px;
+    border-radius: 40px;
+    border: none;
+    background-color: rgb(4, 226, 152);
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: bold;
+}

@@ -1,0 +1,41 @@
+table {
+    font-size: 70px;
+    border: 8px solid rgb(99, 97, 97);
+    margin: auto;
+    border-spacing: 4px 4px;
+    border-bottom-color: black;
+    border-right-color: black;
+}
+
+.one {
+    background-color: rgb(15, 228, 7);
+    border: 2px solid black;
+    text-align: center;
+    border-bottom-color: rgb(150, 147, 147);
+    border-right-color: rgb(150, 147, 147);
+}
+
+.two {
+    background-color: rgb(245, 190, 72);
+    border: 2px solid black;
+    text-align: center;
+    border-bottom-color: rgb(150, 147, 147);
+    border-right-color: rgb(150, 147, 147);
+}
+
+.theree {
+    background-color: rgb(61, 115, 214);
+    border: 2px solid black;
+    text-align: center;
+    border-bottom-color: rgb(150, 147, 147);
+    border-right-color: rgb(150, 147, 147);
+}
+
+.four {
+    font-size: 22px;
+}
+
+#logo {
+    padding: 20px;
+    padding-right: 0px;
+}

@@ -1,0 +1,53 @@
+.google {
+    font-size: 140px;
+    font-weight: bolder;
+}
+
+.google span:nth-child(1) {
+    color: rgb(4, 62, 221);
+}
+
+.google span:nth-child(2) {
+    color: rgb(247, 2, 2);
+}
+
+.google span:nth-child(3) {
+    color: rgb(248, 224, 3);
+}
+
+.google span:nth-child(4) {
+    color: rgb(4, 62, 221);
+}
+
+.google span:nth-child(5) {
+    color: rgb(60, 228, 9);
+}
+
+.google span:nth-child(6) {
+    color: rgb(247, 2, 2);
+}
+
+.one {
+    height: 35px;
+    width: 500px;
+    border-radius: 4px;
+}
+
+.two {
+    height: 35px;
+    width: 150px;
+    color: rgb(1, 111, 255);
+    background-color: rgb(211, 238, 147);
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(199, 214, 165);
+}
+
+div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
